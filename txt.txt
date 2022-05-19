@@ -1,0 +1,4 @@
+
+data-amount="<%= amount %>" data-currency="INR" data-order_id="<%= order_id %>"
+
+<input type="hidden" custom="Hidden Element" name="order_id" value="<%= order_id %>">
